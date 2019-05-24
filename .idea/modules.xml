@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SignInAssistant/SignInAssistant.iml" filepath="$PROJECT_DIR$/SignInAssistant/SignInAssistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SignInAssistant.iml" filepath="$PROJECT_DIR$/SignInAssistant.iml" />
     </modules>
   </component>
 </project>
